@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\pc\Desktop\BEYOND GRADES\ESP8266\SRC\esp8266_new\esp8266_new.kicad_sch</source>
+    <date>11/28/2022 5:12:39 PM</date>
+    <tool>Eeschema (6.0.8)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>esp8266_new.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>untitled.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e368981-0c66-454e-b961-58b62f3bbd83</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6645bc4c-741f-4d24-87c9-2d42cd63dd03</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34b99165-f7a9-4ecf-8ece-1e4de5d65a30</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8954e744-b49c-464d-992d-d2d51a26272e</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8281f86e-cd9d-4dd0-ab8b-dd798d618e83</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35309c38-b15e-424b-833f-1aec655bad45</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5b2dc59-a60d-4909-823c-0d0eb77aaebc</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7194af98-5faf-4ecf-bccc-30d6619a875a</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9f7db33-f2b7-4f20-895b-43bc0df8d57c</tstamps>
+    </comp>
+    <comp ref="H7">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac2f25b3-c0c2-4b01-b17e-ab2065d72ce9</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>esp con</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x15_Female" description="Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d2b4e69-d62b-42c4-9aec-a08584b0ddc6</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>esp conn</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x15_Female" description="Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13d49e65-5473-4a6d-84d5-3c9bf325dae8</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>TOF_sensor conn</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x06_Female" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>011c0b7e-d13b-43b3-a24b-082712fdda6a</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>LED_Connector</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>871dccaf-469c-4cdb-a619-996ef12504cc</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Buzzer</value>
+      <footprint>Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de5170ec-da7b-4e96-902f-80c3236a6fd9</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>DIPxx-1Cxx-51x</value>
+      <footprint>Relay_THT:Relay_StandexMeder_DIP_LowProfile</footprint>
+      <datasheet>https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf</datasheet>
+      <libsource lib="Relay" part="DIPxx-1Cxx-51x" description="Standex Meder DIP reed relay, SPDT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af6fce42-76a0-4c05-b4d9-2f990e6b3fd7</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Q_NPN_BEC</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4939d712-20eb-4ceb-a848-eb847e2f3ffd</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2052e3b-d2f3-486a-b9de-dcccae5c948b</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8f7e58f-8f27-4b36-984c-d5fe5f971fa1</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11ef7899-98ba-46e9-ad58-104114416956</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: esp8266_new.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7e4a064-8a95-4fc0-90ad-d095a8c925f5</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>0e186231-7f25-4984-a671-e1da715cbab0</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>0ad6db8a-faca-4495-b506-cd53979c5bd1</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>220uF</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>2712d4a1-a023-4e6a-9811-0027ccdc9e9e</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>220uF</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>47c46b11-3910-411b-aa39-4da40c02f50a</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_4x5.8</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>5e55b804-deb3-42aa-a15c-e2c0fec5b98d</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_4x5.8</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>3002c3a2-ab48-40df-8834-f4f2ede4fad7</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D_Schottky</value>
+      <footprint>Package_TO_SOT_SMD:TO-277A</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>aa65422e-c6dd-43fa-8271-1b7ea7894990</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D_Schottky</value>
+      <footprint>Package_TO_SOT_SMD:TO-277A</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>3e67f524-c9a1-4662-9040-4865bc1e7208</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Switch_Connector</value>
+      <footprint>Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>efdacaec-04b1-41cf-af82-2cdc8c36bd07</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Batt</value>
+      <footprint>Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>695b42db-7bcd-4222-852e-8158d7598c00</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>33uH</value>
+      <footprint>Inductor_SMD:L_1206_3216Metric</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>a7fa2e67-71d3-4372-bfcd-89b8fa8d9796</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>33uH</value>
+      <footprint>Inductor_SMD:L_1206_3216Metric</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>dedab92d-be2a-4b2e-9e6e-0f77633cf746</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>2a87017e-2c1f-4780-9bc8-402a0befddf1</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>77cfa1fe-75eb-4bc5-815f-24db84555a03</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>22.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>cda1e8f8-0b65-475f-9a47-f5a6f38d586f</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>3.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>16ef5444-dd5d-464b-acd5-17823a73d2a8</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LM2596S-ADJ</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-5_TabPin3</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2596.pdf</datasheet>
+      <libsource lib="Regulator_Switching" part="LM2596S-ADJ" description="Adjustable 3A Step-Down Voltage Regulator, TO-263"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>41ba4b64-e930-41eb-9615-c524268edc5e</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LM2596S-ADJ</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-5_TabPin3</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2596.pdf</datasheet>
+      <libsource lib="Regulator_Switching" part="LM2596S-ADJ" description="Adjustable 3A Step-Down Voltage Regulator, TO-263"/>
+      <property name="Sheetname" value="voltage regulators"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/voltage regulators/" tstamps="/bd6f29d0-b61e-4fca-be25-9f94f3259151/"/>
+      <tstamps>0e3d3582-2771-4349-90ab-2c1496fea457</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Female">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x06_Female">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x15_Female">
+      <description>Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x15_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NPN_BEC">
+      <description>NPN transistor, base/emitter/collector</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_BEC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="LM2596S-ADJ">
+      <description>Adjustable 3A Step-Down Voltage Regulator, TO-263</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm2596.pdf</docs>
+      <footprints>
+        <fp>TO?263*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM2596S-ADJ</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-263-5_TabPin3</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm2596.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="OUT" type="output"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="FB" type="input"/>
+        <pin num="5" name="~{ON}/OFF" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Relay" part="DIPxx-1Cxx-51x">
+      <description>Standex Meder DIP reed relay, SPDT</description>
+      <docs>https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf</docs>
+      <footprints>
+        <fp>Relay*StandexMeder*DIP*LowProfile*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">DIPxx-1Cxx-51x</field>
+        <field name="Footprint">Relay_THT:Relay_StandexMeder_DIP_LowProfile</field>
+        <field name="Datasheet">https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="14" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Switching.kicad_sym</uri>
+    </library>
+    <library logical="Relay">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Relay.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+BATT">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="2" name="/3.3V">
+      <node ref="J1" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="3" name="/3V">
+      <node ref="J2" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    </net>
+    <net code="4" name="/5V">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K1" pin="6" pintype="passive"/>
+      <node ref="L3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/24V">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/A0">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="7" name="/CLK">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="8" name="/CS">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="9" name="/DIO">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="10" name="/EN">
+      <node ref="J2" pin="12" pinfunction="Pin_12" pintype="passive"/>
+    </net>
+    <net code="11" name="/G">
+      <node ref="J1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J2" pin="14" pinfunction="Pin_14" pintype="passive"/>
+    </net>
+    <net code="12" name="/GPIO0">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="13" name="/GPIO2">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="14" name="/GPIO9">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="15" name="/GPIO10">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="16" name="/GPIO12">
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="/GPIO14">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="18" name="/GPIO16">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="19" name="/MISO">
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="20" name="/MOSI">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="21" name="/RESERVED">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="22" name="/RST">
+      <node ref="J2" pin="13" pinfunction="Pin_13" pintype="passive"/>
+    </net>
+    <net code="23" name="/RX">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="24" name="/RXD0">
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+    </net>
+    <net code="25" name="/RXD2">
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    </net>
+    <net code="26" name="/SCL">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="27" name="/SCLK">
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="28" name="/SDA">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="29" name="/TX">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="30" name="/TXD0">
+      <node ref="J1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+    </net>
+    <net code="31" name="/TXD2">
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    </net>
+    <net code="32" name="/VIN">
+      <node ref="J2" pin="15" pinfunction="Pin_15" pintype="passive"/>
+    </net>
+    <net code="33" name="GND">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K1" pin="7" pintype="passive"/>
+      <node ref="K1" pin="8" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="~{ON}/OFF" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="~{ON}/OFF" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="35" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K1" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="41" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="42" name="Net-(J6-Pad2)">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K1" pin="14" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="45" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="46" name="unconnected-(K1-Pad1)">
+      <node ref="K1" pin="1" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
